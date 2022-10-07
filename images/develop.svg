@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_4" data-name="Layer 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 469.28 468.14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eb9d3a;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 42px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Anton-Regular, Anton;
+        font-size: 72px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="239.64" cy="243.5" r="203.64"/>
+  <text class="cls-2" transform="translate(120.41 275.49)"><tspan x="0" y="0">DEVELOP</tspan></text>
+</svg>

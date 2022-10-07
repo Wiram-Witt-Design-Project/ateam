@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_5" data-name="Layer 5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 469.28 468.14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00aba9;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 42px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Anton-Regular, Anton;
+        font-size: 72px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="239.64" cy="239.64" r="203.64"/>
+  <text class="cls-2" transform="translate(171.18 266.71)"><tspan x="0" y="0">HOST</tspan></text>
+</svg>

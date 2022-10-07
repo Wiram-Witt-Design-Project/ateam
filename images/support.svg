@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_6" data-name="Layer 6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 469.28 468.14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7cb06c;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 42px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Anton-Regular, Anton;
+        font-size: 72px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="244.64" cy="243.5" r="203.64"/>
+  <text id="SUPPORT" class="cls-2" transform="translate(134.66 270.57)"><tspan x="0" y="0">SUPPORT</tspan></text>
+</svg>
