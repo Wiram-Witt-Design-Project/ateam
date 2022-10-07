@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_4" data-name="Layer 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 436.75 458.91">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Anton-Regular, Anton;
+        font-size: 300px;
+      }
+
+      .cls-2 {
+        fill: #00aba9;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="203.64" cy="203.64" r="203.64"/>
+  <text id="SUPPORT" class="cls-1" transform="translate(132.64 330.1)"><tspan x="0" y="0">H</tspan></text>
+</svg>
