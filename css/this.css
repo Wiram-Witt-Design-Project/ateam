@@ -7,3 +7,13 @@ h1{
 h3{
     font-family: Anton;
 }
+p{
+    font-family: Abel;
+}
+.h4{
+    font-family: Anton;
+}
+h1.text-center{
+    font-size: 80px;
+    width: 100%;
+}
